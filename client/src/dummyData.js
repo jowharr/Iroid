@@ -1,0 +1,61 @@
+export const data=[{
+    "id":1,
+    "name":"",
+    "pic":"./assets/images/shape.png"
+},
+{
+    "id":2,
+    "name":"Construction",
+    "pic":"./assets/images/construction.png"
+},{
+    "id":3,
+    "name":"Education",
+    "pic":"./assets/images/education.png"
+}
+,{
+    "id":4,
+    "name":"Consultancy",
+    "pic":"./assets/images/consultancy.png"
+},
+{
+    "id":5,
+    "name":"Logistics",
+    "pic":"./assets/images/logistic.png"
+
+},
+{
+    "id":6,
+    "name":"Manufacturing",
+    "pic":"./assets/images/factory.png"
+},{
+    "id":7,
+    "name":"Tourism",
+    "pic":"./assets/images/tourism.png"
+}
+,{
+    "id":8,
+    "name":"IT",
+    "pic":"./assets/images/it.png"
+}
+,
+{
+    "id":9,
+    "name":"Logistics",
+    "pic":"./assets/images/tourism.png"
+
+},
+{
+    "id":10,
+    "name":"Manufacturing",
+    "pic":"./assets/images/tourism.png"
+},{
+    "id":11,
+    "name":"Tourism",
+    "pic":"./assets/images/tourism.png"
+}
+,{
+    "id":12,
+    "name":"IT",
+    "pic":"./assets/images/tourism.png"
+}]
+

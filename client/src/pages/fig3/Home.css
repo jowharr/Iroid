@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500&display=swap');
+
+:root {
+    --primary-color: linear-gradient(to right, #35d6e8, #00bfe5, #00a7df, #008ed4, #1a74c4);
+}
+
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+.button {
+    background: var(--primary-color);
+    border-radius: 8px;
+    border: 0;
+    color: #fff;
+}
